@@ -16,7 +16,7 @@ export default function AboutPage() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-20">
         <div>
           <img 
-            src="https://images.unsplash.com/photo-1596422846543-75c6fc18a523?auto=format&fit=crop&w=800&q=80" 
+            src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
             alt="Scenic KPK Mountains" 
             className="rounded-3xl shadow-xl border border-slate-800"
           />
